@@ -15,8 +15,14 @@
   Думаю...
 </p>
 Теперь ссылки на мои проекты:
+<p>
 <ul>
-  <li>
-    
-  </li>
+  <li> <a href="https://github.com/DmitriyZubkov41/parsing_elisys.ru">Парсинг сайта elisys.ru</a>
+  <p>
+   <li> <a href="https://github.com/DmitriyZubkov41/parsing_pari.ru_live_tennis">Парсинг сайта pari.ru_live_tennis</a></li>
+  </p>
+    <li> <a href="https://github.com/DmitriyZubkov41/parsing_sletat.ru">Парсинг sletat.ru</a></li>
+ <p>
+  <li> <a href="https://github.com/DmitriyZubkov41/parsing_ticketland.ru">Парсинг ticketland.ru</a></li>
+ </p></p>
 </ul>
