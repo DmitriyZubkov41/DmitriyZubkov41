@@ -1,28 +1,15 @@
-<h3 align=center>Hello</h3>
-Программированием, я давно увлекаюсь (HTML, PHP, MT4), но всерьёз решил им заняться в 2024 году.
+Программированием, я давно увлекаюсь (HTML, PHP, MT4), но всерьёз заняться им для поиска работы решил в 2024 году.
 
-Окончил несколько курсов по языкам программирования на stepik, сертификаты можно посмотреть 
-<a href="https://stepik.org/users/921859625/certificates">здесь</a>.<br>
-Больше понравился  язык программирования C++, но решил далее изучать только Python, поскольку думаю, что у питонист-программистов больше шансов
-найти работу.
-<p>
-После окончания курсов учусь на решении реальных задач из бирж для фрилансеров, так получилось, что все задачи из области парсинга сайтов.
-Ссылки на некоторые решения даны внизу страницы.
-</p>
-<p>
- На данный момент (август 2025), я в размышлениях, что дальше изучать. Веб-программирование, несмотря на давний опыт, меня совершенно не интересует. 
-  Парсинг сайтов интереснее, но сложилось впечатление, что специалисты в этой области программирования востребованы только на биржах для фрилансеров. 
-  Думаю...
-</p>
-Теперь ссылки на мои проекты:
-<p>
-<ul>
-  <li> <a href="https://github.com/DmitriyZubkov41/parsing_elisys.ru">Парсинг сайта elisys.ru</a>
-  <p>
-   <li> <a href="https://github.com/DmitriyZubkov41/parsing_pari.ru_live_tennis">Парсинг сайта pari.ru_live_tennis</a></li>
-  </p>
-    <li> <a href="https://github.com/DmitriyZubkov41/parsing_sletat.ru">Парсинг sletat.ru</a></li>
- <p>
-  <li> <a href="https://github.com/DmitriyZubkov41/parsing_ticketland.ru">Парсинг ticketland.ru</a></li>
- </p></p>
-</ul>
+Окончил курсы по языкам программирования: Python, C, C++, SQL. Сертификаты можно посмотреть [здесь](https://stepik.org/users/921859625/certificates).
+
+Практический опыт нарабатываю на решении реальных задач из бирж для фрилансеров, так получилось, что все задачи из области парсинга сайтов.
+
+Ссылки на мои проекты:
+
+1. [Парсинг сайта elisys.ru](https://github.com/DmitriyZubkov41/parsing_elisys.ru) Использованы библиотеки beautifulsoup, asynsio, aiohttp.
+
+2. [Парсинг сайта pari.ru_live_tennis](https://github.com/DmitriyZubkov41/parsing_pari.ru_live_tennis) Библиотеки: selenium, asynsio, aiohttp.
+
+3. [Парсинг sletat.ru](https://github.com/DmitriyZubkov41/parsing_sletat.ru) Библиотеки: selenium, asynsio, aiohttp.
+
+4. [Парсинг ticketland.ru](https://github.com/DmitriyZubkov41/parsing_ticketland.ru) Библиотеки: selenium, asynsio, aiohttp.
