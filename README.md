@@ -7,10 +7,10 @@
 
 **Опыт (на примере проектов):**
 
-1. [Парсинг сайта elisys.ru](https://github.com/DmitriyZubkov41/parsing_elisys.ru)<br>
+1. [Парсинг сайта elisys.ru]([https://github.com/DmitriyZubkov41/parsing_elisys.ru](https://github.com/DmitriyZubkov41/parsing_elisys.ru/blob/main/README.md))<br>
 Парсинг раздела сайта по проекторам. Использованы библиотеки beautifulsoup, asyncio, aiohttp.
 
-2. [Парсинг ticketland.ru](https://github.com/DmitriyZubkov41/parsing_ticketland.ru)<br>
+2. [Парсинг ticketland.ru]([https://github.com/DmitriyZubkov41/parsing_ticketland.ru](https://github.com/DmitriyZubkov41/parsing_ticketland.ru/blob/main/README.md))<br>
 Получить список свободных билетов в цирки по городу Москва. Используется библиотека selenium.
 
 [Ссылка на сертификаты](https://stepik.org/users/921859625/certificates)
