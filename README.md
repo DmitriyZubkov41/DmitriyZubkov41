@@ -7,7 +7,7 @@
 
 **Опыт (на примере проектов):**
 
-1. <a href="https://github.com/DmitriyZubkov41/parsing_elisys.ru](https://github.com/DmitriyZubkov41/parsing_elisys.ru/blob/main/README.md">Парсинг сайта elisys.ru</a><br>
+1. <a href="https://github.com/DmitriyZubkov41/parsing_elisys.ru/blob/main/README.md">Парсинг сайта elisys.ru</a><br>
 Парсинг раздела сайта по проекторам. Использованы библиотеки beautifulsoup, asyncio, aiohttp.
 
 2. <a href="https://github.com/DmitriyZubkov41/parsing_ticketland.ru/blob/main/README.md">Парсинг ticketland.ru</a><br>
