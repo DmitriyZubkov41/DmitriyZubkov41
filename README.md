@@ -1,9 +1,8 @@
 ### Обо мне
 
 Я родился в 1972 году, живу в Иркутске (+5 часов с московским временем).
-Всерьёз занялся программированием в 2024 году.
 
-Окончил курсы по Python, C, C++, SQL. Читаю книги по программированию. Тренируюсь на задачах с фриланс-бирж.
+Окончил курсы по Python, C, C++, SQL. Читаю книги по программированию. 
 
 
 **Мои проекты:**
@@ -13,5 +12,8 @@
 
 2. [Демонстрационный проект](https://github.com/DmitriyZubkov41/market/blob/main/README.md)<br>
 Парсинг wildberries.ru. Знания в Docker, SQL, SQLAlchemy.
+
+3. [API Московской биржи](https://github.com/DmitriyZubkov41/moex/blob/main/README.md)<br>
+Получение свечных данных с сервера биржи. REST API, pandas
 
 [Ссылка на сертификаты](https://stepik.org/users/921859625/certificates)
