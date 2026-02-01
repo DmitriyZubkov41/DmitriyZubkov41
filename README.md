@@ -10,7 +10,7 @@
 1. [Парсинг ticketland.ru](https://github.com/DmitriyZubkov41/parsing_ticketland.ru)<br>
 Получить список свободных билетов в цирки по городу Москва. Используется библиотека selenium.
 
-2. [Демонстрационный проект](https://github.com/DmitriyZubkov41/market/blob/main/README.md)<br>
+2. [Демонстрационный проект](https://github.com/DmitriyZubkov41/market/tree/main)<br>
 Парсинг wildberries.ru. Знания в Docker, SQL, SQLAlchemy.
 
 3. [API Московской биржи](https://github.com/DmitriyZubkov41/moex/blob/main/README.md)<br>
