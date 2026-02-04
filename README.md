@@ -7,7 +7,7 @@
 
 **Мои проекты:**
 
-1. [API сайта hh.ru]([https://github.com/DmitriyZubkov41/moex/blob/main/README.md](https://github.com/DmitriyZubkov41/hh.ru/tree/main))<br>
+1. [API сайта hh.ru](https://github.com/DmitriyZubkov41/hh.ru/tree/main)<br>
 Используя API получаем список вакансий, записываем в базу данных. Строим дашборд. Применённые библиотеки: pandas, sqlalchemy .
 
 2. [API Московской биржи](https://github.com/DmitriyZubkov41/moex/blob/main/README.md)<br>
