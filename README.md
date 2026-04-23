@@ -7,19 +7,22 @@
 
 **Мои проекты:**
 
-17.03.2026: [Статистика](https://github.com/DmitriyZubkov41/statistika)<br>
+- 23.04.2026: [Анализ данных на примере базы данных фирмы по продажам](https://github.com/DmitriyZubkov41/shop/blob/main/README.md)<br>
+Создал фейковую базу данных торговой фирмы используя библиотеку Faker и парсинг сайта dns.ru . Провёл несколько sql-запросов от простейшего типа количество заказов с определённым статусом до ABC-анализа. В конце создал пару графиков используя matplotlib.
+
+- 17.03.2026: [Статистика](https://github.com/DmitriyZubkov41/statistika)<br>
 Над выборкой, полученной из доходности акции Сбербанка за неделю, провожу тесты Колмогорова-Смирнова и Колмогорова-Смирнова с поправкой Лиллиефорса. Также вывел боксплот выборки и её распределение.
 
-[API сайта hh.ru](https://github.com/DmitriyZubkov41/hh.ru/tree/main)<br>
+- [API сайта hh.ru](https://github.com/DmitriyZubkov41/hh.ru/tree/main)<br>
 Используя API получаем список вакансий, записываем в базу данных. Строим дашборд. Применённые библиотеки: pandas, sqlalchemy .
 
-[API Московской биржи](https://github.com/DmitriyZubkov41/moex/blob/main/README.md)<br>
+- [API Московской биржи](https://github.com/DmitriyZubkov41/moex/blob/main/README.md)<br>
 Получение свечных данных с сервера биржи. REST API, pandas
 
-[Парсинг ticketland.ru](https://github.com/DmitriyZubkov41/parsing_ticketland.ru)<br>
+- [Парсинг ticketland.ru](https://github.com/DmitriyZubkov41/parsing_ticketland.ru)<br>
 Получить список свободных билетов в цирки по городу Москва. Используется библиотека selenium.
 
-[Демонстрационный проект](https://github.com/DmitriyZubkov41/market/tree/main)<br>
+- [Демонстрационный проект](https://github.com/DmitriyZubkov41/market/tree/main)<br>
 Парсинг wildberries.ru. Знания в Docker, SQL, SQLAlchemy.
 
 
